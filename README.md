@@ -36,28 +36,6 @@ This repository contains the project for the **Networking Technologies** course 
   - **Advanced Switching Techniques** (VLAN Trunking, STP, Port Security)
   - Security: SSH, Port Security, BPDU Guard, Loop Guard
 
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/TL2324-Network-Project.git
-   ```
-2. Check the files to understand the project requirements and configurations.
-
 ## Author
-- **Alexandre Moreira** - [a2020144214@isec.pt](mailto:a2020144214@isec.pt)
+- **Alexandre Moreira** 
 
-## Technologies Used
-- **GNS3** v2.2.43 or later
-- **Cisco IOS/IOU**
-- Protocols and technologies implemented:
-  - RIP and OSPF
-  - VLANs and PVLANs
-  - Frame Relay
-  - MPLS (AToM)
-  - QinQ
-  - **Advanced Switching Techniques** (VLAN Trunking, STP, Port Security)
-  - Security: SSH, Port Security, BPDU Guard, Loop Guard
-
-
-## Author
-- **Alexandre Moreira** - [a2020144214@isec.pt](mailto:a2020144214@isec.pt)
