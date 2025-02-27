@@ -2,6 +2,7 @@
 Project from ISEC-TL2324
 
 # Network Planning and Configuration Project
+![Topologia](https://github.com/user-attachments/assets/27ccbca9-311f-498e-9782-acb27423ff6b)
 
 ## Introduction
 This project focuses on the planning and configuration of a data network for a **shopping center**, ensuring efficient and secure connectivity between different blocks and stores within the complex. The network is designed to support multiple essential services, including internal communication, internet access, and data security. A key aspect of this project is the **programming and configuration of switches**, implementing advanced **switching techniques** to optimize performance, scalability, and security.
